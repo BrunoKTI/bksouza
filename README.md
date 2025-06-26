@@ -16,7 +16,7 @@ Sou apaixonado por tecnologia e dados, com foco em banco de dados, automações 
 ---
 
 ## 🔭 Atualmente estudando:
-Aprofundando meus conhecimentos para me tornar um **DBA em Data Science**, com foco em otimização de consultas, cloud databases e segurança de dados.
+Aprofundando meus conhecimentos para me tornar um **DBA**, com foco em otimização de consultas, cloud databases e segurança de dados.
 
 ---
 
